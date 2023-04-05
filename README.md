@@ -39,4 +39,4 @@ I provide such services like: making an API exactly for you and cleaning code.
 
 You can take a look at my [website](https://thisisthecarm1ne.github.io/) for further information
 
-Or, If you want to discuss bussiness  - send me a email - CarM1Neees@protonmail.com
+Or, If you want to discuss bussiness  - send me an email - CarM1Neees@protonmail.com
